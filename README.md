@@ -34,7 +34,7 @@ Use `PIS.cfg`, and add it to your `printer.cfg` by
 
 1. Click and hold the button
 
-2. Connect it to to your PC with USB-C cable
+2. Connect it to your PC with USB-C cable
 
 3. Release the button
 
