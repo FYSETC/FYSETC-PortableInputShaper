@@ -32,7 +32,7 @@ Use `PIS.cfg`, and add it to your `printer.cfg` by
 
 ### how to flash
 
-1. Click and hold the button
+1. Press and hold the button
 
 2. Connect it to your PC with USB-C cable
 
@@ -40,7 +40,9 @@ Use `PIS.cfg`, and add it to your `printer.cfg` by
 
 4. Folder named RPI-RP2 popup, copy the klipper.uf2 to the folder
 
-5. Done
+5. Wait for several seconds, when finished folder will closed automatically
+
+6. Done
 
 ## Attention
 
