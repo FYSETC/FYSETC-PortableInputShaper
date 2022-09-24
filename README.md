@@ -34,11 +34,13 @@ Use `PIS.cfg`, and add it to your `printer.cfg` by
 
 1. Click and hold the button
 
-2. Connect to to your PC with  USB-C cable
+2. Connect it to to your PC with USB-C cable
 
-3. Folder popup, copy the klipper.uf2 to the folder
+3. Release the button
 
-4. Done
+4. Folder named RPI-RP2 popup, copy the klipper.uf2 to the folder
+
+5. Done
 
 ## Attention
 
