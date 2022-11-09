@@ -16,7 +16,17 @@ Realize the idea of Nero3D of this video: https://www.youtube.com/watch?v=W_VHbT
 
 4. USB-C port
 
+## Installation
+
+There are different screw bag for Afterburner and Stealthburner, check the mark on the bag. And install them to print head like below, and you need a USBC cable to connect it to your RaspberryPi.
+
+| Afterburner          | Stealthburner                                             |
+| -------------------- | --------------------------------------------------------- |
+| ![](Afterburner.png) | <img src="Stealthburner.png" title="" alt="" width="226"> |
+
 ## Firmware
+
+Follow the instruction [Measuring Resonances - Klipper documentation](https://www.klipper3d.org/Measuring_Resonances.html). But use the `PIS.cfg` config file instead. You can remove PIS after you get the [input_shaper] section parameter.
 
 ### menuconfig
 
