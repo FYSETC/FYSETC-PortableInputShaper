@@ -30,17 +30,11 @@ Follow the instruction [Measuring Resonances - Klipper documentation](https://ww
 
 ### menuconfig
 
-![](menuconfig.png)
+Compile Klipper with following configuration.
 
-### config
+![](menuconfig.png) 
 
-Use `PIS.cfg`, and add it to your `printer.cfg` by
-
-```
-[include PIS.cfg]
-```
-
-### how to flash
+### Flash firmware
 
 1. Press and hold the button
 
@@ -53,6 +47,18 @@ Use `PIS.cfg`, and add it to your `printer.cfg` by
 5. Wait for several seconds, when finished folder will closed automatically
 
 6. Done
+
+### config
+
+Use `PIS.cfg` in the repository, and add it to your `printer.cfg` by
+
+```
+[include PIS.cfg]
+```
+
+### Others
+
+Connect RaspberryPi and PIS with USB-C cable and get the id by `ls /dev/serial/by-id` after you flashed the firmware. Refer to instruction [Measuring Resonances - Klipper documentation](https://www.klipper3d.org/Measuring_Resonances.html) if you not understand.
 
 ## Attention
 
